@@ -11,3 +11,4 @@ Python & Markdown
 - Mid-term Exam (เดี่ยว) 15%
 - Final (กลุ่ม-สุ่ม) 20%
 
+เคจ้าาา
