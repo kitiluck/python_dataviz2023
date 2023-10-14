@@ -11,3 +11,5 @@ Python & Markdown
 - Mid-term Exam (เดี่ยว) 15%
 - Final (กลุ่ม-สุ่ม) 20%
 
+### Project กลุ่ม อยู่กับพี่ลำบากนะ
+
